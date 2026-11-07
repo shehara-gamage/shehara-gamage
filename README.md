@@ -1,5 +1,5 @@
  ## Hello👋
- I am an Undergraduate @ USJ
+
 
 <!--
 **shehara-v/shehara-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
